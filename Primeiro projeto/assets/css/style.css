@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	border-top: 4px solid darkblue;
+
+}
+
+.cabeçalho {
+	width: 80%;
+	margin: 20px auto;
+}
+
+.menu {
+	float: right;
+}
+
+ul {
+	list-style: none;
+}
+
+ul li {
+	display: inline;
+	margin-right: 10px;
+	font-size: 18px;
+}
+
+ul li a {
+	text-decoration: none;
+	color: black;
+}
+
+ul li a:hover {
+	color: blue;
+}
+
+
+
+.area-conteúdo {
+	width: 80%;
+	margin: 0 auto;
+	min-height: 500px
+}
+
+#banner {
+	width: 100%
+}
+
+.rodapé {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 15px;
+	font-size: 18px;
+
+}
